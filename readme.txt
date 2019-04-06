@@ -1,3 +1,3 @@
 Git is a  version contral
-Git is free software
+Git is a free software
 Createing a new brance is fast & simple
